@@ -1,0 +1,70 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+compute-0-109.local
+total 186M
+-rw-r--r-- 1 crawdad crawdad  836 Jun 24 10:29 Gau-1635.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jun 24 10:29 Gau-1636.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jun 24 10:29 Gau-1636.int
+-rw-r--r-- 1 crawdad crawdad  43M Jun 24 10:34 Gau-1636.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jun 24 10:30 Gau-1636.scr
+-rw-r--r-- 1 crawdad crawdad  841 Jun 24 10:38 Gau-3070.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jun 24 10:38 Gau-3071.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jun 24 10:38 Gau-3071.int
+-rw-r--r-- 1 crawdad crawdad  43M Jun 24 10:40 Gau-3071.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jun 24 10:38 Gau-3071.scr
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:29 Gau-7685.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:29 Gau-7686.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:29 Gau-7687.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:29 Gau-7687.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-7687.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:37 Gau-7687.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:29 Gau-7688.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:29 Gau-7688.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-7688.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:37 Gau-7688.scr
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/ddf1_4035305a868022282020202020202020eabbd6693a354a45p1
+                       16G  3.0G   12G  21% /
+/dev/mapper/ddf1_4035305a868022282020202020202020eabbd6693a354a45p5
+                      1.9G  442M  1.4G  25% /var
+/dev/mapper/ddf1_4035305a868022282020202020202020eabbd6693a354a45p2
+                      427G  149G  256G  37% /scratch
+tmpfs                 4.0G     0  4.0G   0% /dev/shm
+10.1.1.1:/cerebro/home
+                      946G  869G   29G  97% /cerebro/home
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/ddf1_4035305a868022282020202020202020eabbd6693a354a45p1
+                       16G  3.0G   12G  21% /
+/dev/mapper/ddf1_4035305a868022282020202020202020eabbd6693a354a45p5
+                      1.9G  442M  1.4G  25% /var
+/dev/mapper/ddf1_4035305a868022282020202020202020eabbd6693a354a45p2
+                      427G  150G  256G  37% /scratch
+tmpfs                 4.0G     0  4.0G   0% /dev/shm
+10.1.1.1:/cerebro/home
+                      946G  870G   29G  97% /cerebro/home
+total 288M
+-rw-r--r-- 1 crawdad crawdad  836 Jun 24 10:29 Gau-1635.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jun 24 10:29 Gau-1636.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jun 24 10:29 Gau-1636.int
+-rw-r--r-- 1 crawdad crawdad  43M Jun 24 10:34 Gau-1636.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jun 24 10:30 Gau-1636.scr
+-rw-r--r-- 1 crawdad crawdad  692 Jul 10 16:50 Gau-18327.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-18329.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-18329.int
+-rw-r--r-- 1 crawdad crawdad 119M Jul 10 17:18 Gau-18329.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:54 Gau-18329.scr
+-rw-r--r-- 1 crawdad crawdad  841 Jun 24 10:38 Gau-3070.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jun 24 10:38 Gau-3071.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jun 24 10:38 Gau-3071.int
+-rw-r--r-- 1 crawdad crawdad  43M Jun 24 10:40 Gau-3071.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jun 24 10:38 Gau-3071.scr
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:29 Gau-7685.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:29 Gau-7686.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:29 Gau-7687.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:29 Gau-7687.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-7687.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:37 Gau-7687.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:29 Gau-7688.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:29 Gau-7688.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-7688.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:37 Gau-7688.scr

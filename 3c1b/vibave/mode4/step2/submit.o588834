@@ -1,0 +1,50 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+compute-0-101.local
+total 35M
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 16:04 Gau-18152.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-18153.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-18153.int
+-rw-r--r-- 1 crawdad crawdad  26M Jul 10 16:10 Gau-18153.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:04 Gau-18153.scr
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 16:04 Gau-18301.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-18302.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-18302.int
+-rw-r--r-- 1 crawdad crawdad  26M Jul 10 16:10 Gau-18302.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:04 Gau-18302.scr
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/ddf1_4035305a8680222820202020202020205acca10c3a354a45p1
+                       16G  3.0G   12G  21% /
+/dev/mapper/ddf1_4035305a8680222820202020202020205acca10c3a354a45p5
+                      1.9G  441M  1.4G  24% /var
+/dev/mapper/ddf1_4035305a8680222820202020202020205acca10c3a354a45p2
+                      427G  141G  264G  35% /scratch
+tmpfs                 4.0G     0  4.0G   0% /dev/shm
+10.1.1.1:/cerebro/home
+                      946G  870G   29G  97% /cerebro/home
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/ddf1_4035305a8680222820202020202020205acca10c3a354a45p1
+                       16G  3.0G   12G  21% /
+/dev/mapper/ddf1_4035305a8680222820202020202020205acca10c3a354a45p5
+                      1.9G  441M  1.4G  24% /var
+/dev/mapper/ddf1_4035305a8680222820202020202020205acca10c3a354a45p2
+                      427G  142G  264G  35% /scratch
+tmpfs                 4.0G     0  4.0G   0% /dev/shm
+10.1.1.1:/cerebro/home
+                      946G  870G   29G  97% /cerebro/home
+total 137M
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 16:04 Gau-18152.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-18153.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-18153.int
+-rw-r--r-- 1 crawdad crawdad  26M Jul 10 16:10 Gau-18153.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:04 Gau-18153.scr
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 16:04 Gau-18301.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-18302.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-18302.int
+-rw-r--r-- 1 crawdad crawdad  26M Jul 10 16:10 Gau-18302.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:04 Gau-18302.scr
+-rw-r--r-- 1 crawdad crawdad  692 Jul 10 17:19 Gau-27075.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 17:19 Gau-27078.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 17:19 Gau-27078.int
+-rw-r--r-- 1 crawdad crawdad 119M Jul 10 17:47 Gau-27078.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 17:23 Gau-27078.scr

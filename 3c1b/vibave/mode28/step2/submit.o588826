@@ -1,0 +1,32 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+compute-0-119.local
+total 4.0K
+drwxr-xr-x 2 crawdad crawdad 4.0K Dec 15  2012 alanine
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/ddf1_4035305a868022282020202020202020e386eb263a354a45p1
+                       16G  3.0G   12G  21% /
+/dev/mapper/ddf1_4035305a868022282020202020202020e386eb263a354a45p5
+                      1.9G  441M  1.4G  24% /var
+/dev/mapper/ddf1_4035305a868022282020202020202020e386eb263a354a45p2
+                      427G   80G  326G  20% /scratch
+tmpfs                 4.0G     0  4.0G   0% /dev/shm
+10.1.1.1:/cerebro/home
+                      946G  870G   29G  97% /cerebro/home
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/ddf1_4035305a868022282020202020202020e386eb263a354a45p1
+                       16G  3.0G   12G  21% /
+/dev/mapper/ddf1_4035305a868022282020202020202020e386eb263a354a45p5
+                      1.9G  441M  1.4G  24% /var
+/dev/mapper/ddf1_4035305a868022282020202020202020e386eb263a354a45p2
+                      427G   80G  326G  20% /scratch
+tmpfs                 4.0G     0  4.0G   0% /dev/shm
+10.1.1.1:/cerebro/home
+                      946G  870G   29G  97% /cerebro/home
+total 103M
+drwxr-xr-x 2 crawdad crawdad 4.0K Dec 15  2012 alanine
+-rw-r--r-- 1 crawdad crawdad  692 Jul 10 17:11 Gau-7634.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 17:11 Gau-7636.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 17:11 Gau-7636.int
+-rw-r--r-- 1 crawdad crawdad 119M Jul 10 17:39 Gau-7636.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 17:15 Gau-7636.scr

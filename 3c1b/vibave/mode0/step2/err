@@ -1,0 +1,5 @@
+ Read checkpoint file vibave.chk
+ Write formatted file vibave.fchk
+ Coordinates translated and rotated.
+ Coordinates match /B/ after translation and rotation.
+ Rotating derivatives, DoTrsp=T IDiff= 1 LEDeriv=   1781 LFDPrp=      42 LDFDPr=       0.

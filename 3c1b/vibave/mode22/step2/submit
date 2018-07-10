@@ -1,0 +1,13 @@
+#$ -cwd
+#$ -j y
+#$ -l scratch=200G,memory=1G,s_rt=5:00:00
+
+source ~software/etc/cshrc.g09
+
+hostname
+
+ls -lh /scratch/crawdad
+df -h
+g09 input.dat output.dat
+df -h
+ls -lh /scratch/crawdad

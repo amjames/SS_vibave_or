@@ -1,0 +1,163 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+compute-0-116.local
+total 47G
+-rw-r--r-- 1 crawdad crawdad 520K Jul  1 15:04 psi.20184.100
+-rw-r--r-- 1 crawdad crawdad  21M Jul  2 11:25 psi.20184.101
+-rw-r--r-- 1 crawdad crawdad 1.5M Jun 29 04:50 psi.20184.102
+-rw-r--r-- 1 crawdad crawdad  11G Jun 29 04:50 psi.20184.103
+-rw-r--r-- 1 crawdad crawdad 1.2G Jun 29 04:50 psi.20184.104
+-rw-r--r-- 1 crawdad crawdad 2.5G Jun 29 04:50 psi.20184.105
+-rw-r--r-- 1 crawdad crawdad 112M Jun 29 04:50 psi.20184.106
+-rw-r--r-- 1 crawdad crawdad 1.9G Jun 29 04:50 psi.20184.107
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.108
+-rw-r--r-- 1 crawdad crawdad 3.5G Jun 29 04:50 psi.20184.109
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.110
+-rw-r--r-- 1 crawdad crawdad  17M Jun 29 04:50 psi.20184.111
+-rw-r--r-- 1 crawdad crawdad 4.5G Jun 29 04:51 psi.20184.112
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.113
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.114
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.115
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.116
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.117
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.118
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.119
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.120
+-rw-r--r-- 1 crawdad crawdad 2.0G Jun 29 04:50 psi.20184.121
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.122
+-rw-r--r-- 1 crawdad crawdad 1.1G Jun 29 04:52 psi.20184.123
+-rw-r--r-- 1 crawdad crawdad 7.5G Jul  2 11:26 psi.20184.124
+-rw-r--r-- 1 crawdad crawdad 1.4G Jul  2 11:24 psi.20184.125
+-rw-r--r-- 1 crawdad crawdad 1.4G Jul  2 11:24 psi.20184.126
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.127
+-rw-r--r-- 1 crawdad crawdad 1.2G Jul  2 11:24 psi.20184.128
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.129
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.130
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.131
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.132
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.133
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.134
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.135
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.136
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.137
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.138
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.139
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.140
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.141
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.142
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.143
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.144
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.145
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.146
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.147
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.148
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.149
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.150
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.151
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.152
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.153
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.154
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.155
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.156
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.157
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.158
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.159
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.160
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.161
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.162
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.163
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.164
+-rw-r--r-- 1 crawdad crawdad 118K Jun 28 19:07 psi.20184.180
+-rw-r--r-- 1 crawdad crawdad 774K Jun 29 04:51 psi.20184.32
+-rw-r--r-- 1 crawdad crawdad 8.1G Jun 28 19:07 psi.20184.34
+-rw-r--r-- 1 crawdad crawdad 3.8M Jun 28 19:54 psi.20184.35
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/ddf1_4035305a86802228202020202020202098b54c1d3a354a45p1
+                       16G  3.0G   12G  21% /
+/dev/mapper/ddf1_4035305a86802228202020202020202098b54c1d3a354a45p5
+                      1.9G  454M  1.4G  25% /var
+/dev/mapper/ddf1_4035305a86802228202020202020202098b54c1d3a354a45p2
+                      427G  328G   77G  82% /scratch
+tmpfs                 4.0G     0  4.0G   0% /dev/shm
+10.1.1.1:/cerebro/home
+                      946G  869G   29G  97% /cerebro/home
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/ddf1_4035305a86802228202020202020202098b54c1d3a354a45p1
+                       16G  3.0G   12G  21% /
+/dev/mapper/ddf1_4035305a86802228202020202020202098b54c1d3a354a45p5
+                      1.9G  454M  1.4G  25% /var
+/dev/mapper/ddf1_4035305a86802228202020202020202098b54c1d3a354a45p2
+                      427G  328G   77G  82% /scratch
+tmpfs                 4.0G     0  4.0G   0% /dev/shm
+10.1.1.1:/cerebro/home
+                      946G  870G   29G  97% /cerebro/home
+total 47G
+-rw-r--r-- 1 crawdad crawdad 520K Jul  1 15:04 psi.20184.100
+-rw-r--r-- 1 crawdad crawdad  21M Jul  2 11:25 psi.20184.101
+-rw-r--r-- 1 crawdad crawdad 1.5M Jun 29 04:50 psi.20184.102
+-rw-r--r-- 1 crawdad crawdad  11G Jun 29 04:50 psi.20184.103
+-rw-r--r-- 1 crawdad crawdad 1.2G Jun 29 04:50 psi.20184.104
+-rw-r--r-- 1 crawdad crawdad 2.5G Jun 29 04:50 psi.20184.105
+-rw-r--r-- 1 crawdad crawdad 112M Jun 29 04:50 psi.20184.106
+-rw-r--r-- 1 crawdad crawdad 1.9G Jun 29 04:50 psi.20184.107
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.108
+-rw-r--r-- 1 crawdad crawdad 3.5G Jun 29 04:50 psi.20184.109
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.110
+-rw-r--r-- 1 crawdad crawdad  17M Jun 29 04:50 psi.20184.111
+-rw-r--r-- 1 crawdad crawdad 4.5G Jun 29 04:51 psi.20184.112
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.113
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.114
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.115
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.116
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.117
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.118
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.119
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.120
+-rw-r--r-- 1 crawdad crawdad 2.0G Jun 29 04:50 psi.20184.121
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.122
+-rw-r--r-- 1 crawdad crawdad 1.1G Jun 29 04:52 psi.20184.123
+-rw-r--r-- 1 crawdad crawdad 7.5G Jul  2 11:26 psi.20184.124
+-rw-r--r-- 1 crawdad crawdad 1.4G Jul  2 11:24 psi.20184.125
+-rw-r--r-- 1 crawdad crawdad 1.4G Jul  2 11:24 psi.20184.126
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.127
+-rw-r--r-- 1 crawdad crawdad 1.2G Jul  2 11:24 psi.20184.128
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.129
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.130
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.131
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.132
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.133
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.134
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.135
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.136
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.137
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.138
+-rw-r--r-- 1 crawdad crawdad    8 Jul  2 09:28 psi.20184.139
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.140
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.141
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.142
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.143
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.144
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.145
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.146
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.147
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.148
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.149
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.150
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.151
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.152
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.153
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.154
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.155
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.156
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.157
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.158
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.159
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.160
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.161
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.162
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.163
+-rw-r--r-- 1 crawdad crawdad    8 Jun 29 04:50 psi.20184.164
+-rw-r--r-- 1 crawdad crawdad 118K Jun 28 19:07 psi.20184.180
+-rw-r--r-- 1 crawdad crawdad 774K Jun 29 04:51 psi.20184.32
+-rw-r--r-- 1 crawdad crawdad 8.1G Jun 28 19:07 psi.20184.34
+-rw-r--r-- 1 crawdad crawdad 3.8M Jun 28 19:54 psi.20184.35

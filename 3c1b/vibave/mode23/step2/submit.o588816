@@ -1,0 +1,124 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+compute-0-1.local
+total 609M
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21874.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21875.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21876.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21877.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21878.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21879.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21880.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21881.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21882.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21882.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:09 Gau-21882.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21882.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21883.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21883.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-21883.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21883.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21884.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21884.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-21884.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21884.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21885.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21885.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:09 Gau-21885.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21885.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21886.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21886.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-21886.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21886.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21887.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21887.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-21887.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21887.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21888.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21888.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-21888.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21888.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21889.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21889.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-21889.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21889.scr
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/cciss/c0d0p1      16G  3.0G   12G  21% /
+/dev/cciss/c0d0p5     1.9G   92M  1.8G   5% /var
+/dev/md0              3.5T  528G  2.8T  16% /scratch
+tmpfs                  16G     0   16G   0% /dev/shm
+10.1.1.1:/cerebro/home
+                      946G  869G   29G  97% /cerebro/home
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/cciss/c0d0p1      16G  3.0G   12G  21% /
+/dev/cciss/c0d0p5     1.9G   92M  1.8G   5% /var
+/dev/md0              3.5T  529G  2.8T  16% /scratch
+tmpfs                  16G     0   16G   0% /dev/shm
+10.1.1.1:/cerebro/home
+                      946G  870G   29G  97% /cerebro/home
+total 1.1G
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21874.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21875.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21876.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21877.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21878.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21879.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21880.inp
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 15:14 Gau-21881.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21882.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21882.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:09 Gau-21882.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21882.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21883.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21883.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-21883.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21883.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21884.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21884.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-21884.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21884.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21885.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21885.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:09 Gau-21885.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21885.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21886.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21886.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-21886.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21886.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21887.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21887.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-21887.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21887.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21888.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21888.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-21888.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21888.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21889.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 15:14 Gau-21889.int
+-rw-r--r-- 1 crawdad crawdad 102M Jul 10 16:08 Gau-21889.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 15:21 Gau-21889.scr
+-rw-r--r-- 1 crawdad crawdad  692 Jul 10 16:50 Gau-31982.inp
+-rw-r--r-- 1 crawdad crawdad  692 Jul 10 16:50 Gau-31985.inp
+-rw-r--r-- 1 crawdad crawdad  692 Jul 10 16:50 Gau-31989.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-31990.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-31990.int
+-rw-r--r-- 1 crawdad crawdad 119M Jul 10 17:27 Gau-31990.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:54 Gau-31990.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-31993.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-31993.int
+-rw-r--r-- 1 crawdad crawdad 119M Jul 10 17:26 Gau-31993.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:54 Gau-31993.scr
+-rw-r--r-- 1 crawdad crawdad  692 Jul 10 16:50 Gau-31997.inp
+-rw-r--r-- 1 crawdad crawdad  692 Jul 10 16:50 Gau-31998.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-32000.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-32000.int
+-rw-r--r-- 1 crawdad crawdad 119M Jul 10 17:27 Gau-32000.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:55 Gau-32000.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-32002.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-32002.int
+-rw-r--r-- 1 crawdad crawdad 120M Jul 10 17:27 Gau-32002.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:55 Gau-32002.scr
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-32003.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-32003.int
+-rw-r--r-- 1 crawdad crawdad 119M Jul 10 17:27 Gau-32003.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:55 Gau-32003.scr

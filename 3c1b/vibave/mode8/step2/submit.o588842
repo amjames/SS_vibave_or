@@ -1,0 +1,50 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+compute-0-107.local
+total 139M
+-rw-r--r-- 1 crawdad crawdad  692 Jul 10 16:50 Gau-10042.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-10044.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:50 Gau-10044.int
+-rw-r--r-- 1 crawdad crawdad 120M Jul 10 17:19 Gau-10044.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:54 Gau-10044.scr
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 16:04 Gau-3672.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-3673.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-3673.int
+-rw-r--r-- 1 crawdad crawdad  26M Jul 10 16:10 Gau-3673.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:04 Gau-3673.scr
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 16:04 Gau-3827.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-3828.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-3828.int
+-rw-r--r-- 1 crawdad crawdad  26M Jul 10 16:10 Gau-3828.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:04 Gau-3828.scr
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/ddf1_4035305a8680222820202020202020203b7f8f533a354a45p1
+                       16G  3.0G   12G  21% /
+/dev/mapper/ddf1_4035305a8680222820202020202020203b7f8f533a354a45p5
+                      1.9G  448M  1.4G  25% /var
+/dev/mapper/ddf1_4035305a8680222820202020202020203b7f8f533a354a45p2
+                      427G  115G  291G  29% /scratch
+tmpfs                 4.0G     0  4.0G   0% /dev/shm
+10.1.1.1:/cerebro/home
+                      946G  870G   29G  97% /cerebro/home
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/ddf1_4035305a8680222820202020202020203b7f8f533a354a45p1
+                       16G  3.0G   12G  21% /
+/dev/mapper/ddf1_4035305a8680222820202020202020203b7f8f533a354a45p5
+                      1.9G  448M  1.4G  25% /var
+/dev/mapper/ddf1_4035305a8680222820202020202020203b7f8f533a354a45p2
+                      427G  115G  291G  29% /scratch
+tmpfs                 4.0G     0  4.0G   0% /dev/shm
+10.1.1.1:/cerebro/home
+                      946G  870G   29G  97% /cerebro/home
+total 35M
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 16:04 Gau-3672.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-3673.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-3673.int
+-rw-r--r-- 1 crawdad crawdad  26M Jul 10 16:10 Gau-3673.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:04 Gau-3673.scr
+-rw-r--r-- 1 crawdad crawdad  693 Jul 10 16:04 Gau-3827.inp
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-3828.d2e
+-rw-r--r-- 1 crawdad crawdad    0 Jul 10 16:04 Gau-3828.int
+-rw-r--r-- 1 crawdad crawdad  26M Jul 10 16:10 Gau-3828.rwf
+-rw-r--r-- 1 crawdad crawdad 512K Jul 10 16:04 Gau-3828.scr
