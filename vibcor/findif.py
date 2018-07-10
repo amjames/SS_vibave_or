@@ -1,3 +1,7 @@
+import numpy as np
+from .constants import physconst
+LINEAR_A_TOL=1.0e-2
+
 def wiberg_displacement_sizes(omegas, temp):
     c1 = 16.857
     c2 = 0.719384
