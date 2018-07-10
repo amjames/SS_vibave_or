@@ -5,8 +5,18 @@ import re
 from pathlib import Path
 import numpy as np
 
-from . import utils
-#import executables
+from .constants import physconst
+
+def freq_conv_au_nm(freq_au):
+    "convert a field energy in [Eh] to a field wl in nm"
+    freq_J = freq_au * physconst['hartree2J']
+    freq_m = physconst['h'] * physconst['c'] / freq_J
+    return int(round(freq_m * 1e9))
+
+def compute_opt_rot(Gprime, f_au, mw):
+    hbar = physconst['h'] / (2*np.pi)
+    prefactor = -72e6 * (hbar**2) * physconst['na'] / physconst['c']**2 / physconst['me']**2
+    return prefactor * (f_au**2) * np.trace(Gprime) / mw / 3.0
 
 
 def parse_fchk_array(fchk_text, array_name):
@@ -57,12 +67,12 @@ def parse_optical_rotation(fchk_text):
     """
     mw = np.sum(parse_fchk_array(fchk_text, array_name="Real atomic weights"))
     au_freqs = parse_fchk_array(fchk_text, array_name="Frequencies for FD properties")
-    nm_freqs = [utils.freq_conv_au_nm(f_au) for f_au in au_freqs]
+    nm_freqs = [freq_conv_au_nm(f_au) for f_au in au_freqs]
     n_freq = len(au_freqs)
     rot_tensors = parse_fchk_array(fchk_text, array_name="FD Optical Rotation Tensor").reshape(-1, 3,3)
     rotations = {}
     for Gprime, f_au, f_nm in zip(rot_tensors, au_freqs, nm_freqs):
-        rotations[f_nm] = utils.compute_opt_rot(Gprime, f_au, mw)
+        rotations[f_nm] = compute_opt_rot(Gprime, f_au, mw)
     return rotations
 
 def parse_gradient(fchk_text):
