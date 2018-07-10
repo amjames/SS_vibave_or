@@ -15,5 +15,17 @@ def compute_correction(alpha_ii):
     "computes the seccond term in the second to last equation on pg 1892 of wiberg"
     pass
 
+# How to get displacement sizes!
+
+# need the hessian, geom, masses!
+
+# need to use the vibcor.findif module!
 if __name__ == "__main__":
     # put all the pieces together!
+
+    # output should be
+    # wavelength | eq_val | correction | corrected_val |
+    # 355        | xxx    |  yyy       | xxx + yyy     |
+    # other wavelengths
+
+

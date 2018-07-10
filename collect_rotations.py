@@ -18,10 +18,9 @@ def ensure_f_exists(p):
         if p.is_file():
             return p
         else:
-            raise Exception("{} is not a file")
+            raise Exception("{} is not a file".format(p))
     else:
         raise Exception("{} does not exist".format(p))
-
 
 def get_mode_rot_fchk(mol, mode_index, direction):
     # start from the current directory
