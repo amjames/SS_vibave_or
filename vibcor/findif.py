@@ -174,8 +174,9 @@ def get_vibinfo(hess, geom, mass):
         com[0] += (geom[i, 0] * mass[i]) / mw
         com[1] += (geom[i, 1] * mass[i]) / mw
         com[2] += (geom[i, 2] * mass[i]) / mw
-    if sum(com) > 1.0e-10:
-        raise ValueError("Error, molecule must be at the center of mass")
+
+    for i in range(geom.shape[0]):
+        geom[i,:] -= com
 
     natom = len(mass)
 
